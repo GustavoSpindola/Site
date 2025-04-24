@@ -21,11 +21,6 @@ h1{
     text-align: center;
     text-transform: uppercase;
     font-family: sans-serif, bold;
-    box-shadow: 
-    0 0 10px hsl(187, 34%, 49%, 0.3),
-    0 0 20px hsl(187, 34%, 49%, 0.3),
-    0 0 30px hsl(187, 34%, 49%, 0.3);
-    border-radius: 50px;
 }
 
 section {
